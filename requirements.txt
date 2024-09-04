@@ -1,0 +1,6 @@
+langchain_anthropic
+langchain_ollama
+langchain_openai
+langchain_core
+langchain
+streamlit
